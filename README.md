@@ -1,5 +1,3 @@
-# azure-learning-journey
-My journey learning cloud computing and Azure infrastructure.
 # Azure Cloud Learning Journey
 
 Hi! I'm Diego, currently learning cloud infrastructure with Microsoft Azure.
